@@ -63,7 +63,7 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!-- for openshift -->
+		<!-- for openshift ?-->
         <dependency>
             <groupId>javax</groupId>
             <artifactId>javaee-api</artifactId>
